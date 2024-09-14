@@ -13,22 +13,26 @@ To update the website, see [`ahdinosaur/whack.nz`](https://github.com/ahdinosaur
 > * liaising with other organizations to promote the Society’s aims and enhance the positive impact on the community;
 > * carrying out any other activities necessary or helpful to achieve the above charitable purposes.
 
-## Membership
+## [Membership](./membership)
 
 - [How members join](./membership/how-to-join.md)
 - [How members pay dues](./membership/how-to-pay-dues.md)
 - [The social contract](./membership/the-social-contract.md)
 
-## Governance
+## [Governance](./governance)
 
-- Constitution
+- [Constitution](./governance/constitution.md)
 - [Do-ocracy](./governance/do-ocracy.md)
-- Stewardship
-- Meetings
+- [Stewardship](./governance/stewardship.md)
+- [Meetings](./governance/meetings.md)
 
-## Safety
+## [Safety](./safety)
+
+- [Health & Safety policy](./safety/health-and-safety-policy.md)
 
 ## Guidelines
+
+- [Guidelines](./guidelines.md)
 
 ## Processes
 

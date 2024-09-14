@@ -1,21 +1,31 @@
-# Do-ocracy
+# Do-ocracy: How Things Get Done
 
-A *do-ocracy* is a system where action drives decisions. If you see something that needs doing, and you're willing to do it, you have the power to make it happen. Instead of waiting for approval, you take initiative.
+A **do-ocracy** is a system where authority comes from *taking action*. It’s a structure where the people who make decisions are the ones actually doing the work. Instead of waiting for permission or consensus, you have the freedom to act, with the responsibility to do so wisely.
 
-## How It Works
+## Action Creates Authority
 
-In a do-ocracy, responsibility lies with the person who takes action. If you want to make a change, you are free to do so. Once you've done something, share what you did and why. This keeps everyone informed and encourages feedback.
+In a do-ocracy, decisions are made by those who act. If you see something that needs doing, **take the initiative**. You don’t need to wait for a committee, vote, or approval. Your ability to act gives you authority over that task or project.
 
-If your action affects others, you’re expected to ask for advice from those impacted or with relevant expertise. You don’t need permission, but consulting others helps build trust and make sure everyone is on the same page.
+## The Advice Process: Wisdom Before Action
 
-## When to Use It
+Before making significant decisions — especially ones that impact others — **seek advice**. This doesn’t mean asking for permission, but getting feedback from those with more experience or those affected by your actions. By gathering diverse perspectives, you’ll refine your idea and increase the chances of success, while also reducing potential friction.
 
-Do-ocracy works best for tasks where immediate action can be taken and where the consequences aren’t permanent. If what you’re doing is complex or hard to undo, check in with the group. If you want to experiment or create something new, go for it—just let others know.
+## Consent, Not Consensus
 
-## Respecting Contributions
+**Consensus** — where everyone must agree — can stall progress and lead to compromises nobody loves. Instead, we practice **consent**: if there are no strong objections, you’re free to proceed. This keeps things moving while still respecting the voices of those who may be affected. Consent is about listening to concerns, not demanding unanimous approval.
 
-Those who do the work have authority over it. Their experience and effort give them influence, but this is not about controlling others. It’s about fostering initiative and recognizing effort. You trust that those who take action have the community's best interest in mind.
+## Focus on What Matters (Avoid Bikeshedding)
 
-## When Not to Use It
+People often get stuck on trivial decisions — like the color of a bike shed — while ignoring more critical issues. This is called **bikeshedding**. Do-ocracy means focusing on **meaningful decisions** and not wasting time on things that don’t really matter. Spend your energy where it counts.
 
-There are times when more input is needed—like big decisions or irreversible changes. In these cases, gather advice and discuss it openly with the group. If the change impacts many people, ensure everyone has a chance to weigh in.
+## Embrace Failure, Iterate Quickly
+
+Mistakes happen, and that’s okay. In a do-ocracy, action is valued over perfection. If you try something and it doesn’t work, **learn from it and improve**. What’s critical is taking responsibility for your actions and being open to feedback and adaptation. Progress comes through experimentation and iteration.
+
+## Trust, Accountability, and Transparency
+
+A do-ocracy thrives on trust. You’re trusted to act in the best interests of the group, and others will trust that you’ve considered the broader impact of your actions. In return, **be transparent** about what you’re doing. Share your progress, solicit input, and ensure that everyone is aware of major changes. This fosters a culture of mutual respect and accountability.
+
+## Know the Limits
+
+While do-ocracy encourages action, there are **boundaries**. If your actions are irreversible or affect the community in significant ways, it’s your responsibility to get feedback and seek input before proceeding. **No single person** should make decisions that could fundamentally alter the space or the group without collaboration.
