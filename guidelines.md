@@ -1,35 +1,35 @@
 # Guidelines for Whack
 
-Whack is a shared space for creativity, learning, and collaboration. To maintain a productive and safe environment, follow these simple, effective guidelines.
+Welcome to Whack! To ensure a positive and productive environment for everyone, please follow these guidelines:
 
-### 1. Respect the Community
+## 1. Respect and Community
 
-- **Be kind.** Treat everyone respectfully. Don’t cause unnecessary conflict.
-- **Communicate clearly.** If you change or move something that affects others, inform the group.
+- **Don't Be a Jerk**: Treat everyone with kindness and consideration. Negative behavior, harassment, or discrimination will not be tolerated.
+- **Respect and Transparency**: Communicate openly and honestly. If you have concerns or issues, discuss them directly and politely with those involved.
+- **Don't Touch Others' Projects**: Respect personal projects marked with "DO NOT HACK".
+- **Follow Community Decisions**: Abide by any group agreements or decisions made during meetings or discussions.
 
-### 2. Safety is Priority
+## 2. Safety First
 
-- **Know your tools.** Don’t use equipment you haven’t been trained on. If unsure, ask.
-- **Protect yourself and others.** Use safety gear and alert others before making loud noises or starting potentially hazardous work.
+- **Prioritize Safety**: Always follow safety procedures when using tools and equipment. If you're unsure how to operate something, ask for assistance.
+- **No Sleeping in the Space**: The Hackspace is a workspace, not a residence. Please do not sleep or stay overnight.
+- **Be Mindful of Noise and Hazards**: If you're about to make loud noises or create potential hazards, inform others and offer protective equipment if necessary.
 
-### 3. Keep the Space Clean
+## 3. Care for the Space
 
-- **Clean up.** Leave your workspace cleaner than you found it. Return tools and materials to their designated places.
-- **Don’t hoard.** Take only what you need. Don’t clutter the space with personal items or unnecessary materials.
+- **Leave It Cleaner Than You Found It**: After working, tidy up your area and clean any equipment used. This helps keep the space welcoming for everyone.
+- **Don't Hoard Resources**: Only take the materials and tools you need for your project so others can access them too.
+- **Thoughtful Donations**: Only donate items that are needed or useful. If you're unsure whether something is appropriate to donate, please ask first.
+- **Avoid Using the Space as Storage**: Do not use the Hackspace to store personal items or as a dumping ground for unwanted materials.
 
-### 4. Contribute, Don’t Just Consume
+## 4. Participation and Contribution
 
-- **Be involved.** Share knowledge, help with upkeep, or contribute to projects. The space thrives through participation.
-- **No quick, one-off memberships.** The space is for ongoing engagement, not for short-term, urgent projects like fitting out a van.
+- **Contribute to the Community**: Share your knowledge, help others, and get involved in projects and events.
+- **No Short-Term Memberships for One-Off Projects**: Please don't join solely to complete a single, time-critical project (e.g., outfitting a van). Our community thrives on long-term participation.
+- **Use for Prototyping, Not Production**: The Hackspace is intended for learning and creating prototypes, not for commercial manufacturing or mass production.
 
-### 5. Use the Space for Prototyping, Not Production
+## 5. General Etiquette
 
-- **Prototyping only.** The Hackspace is for testing and developing ideas, not for full-scale commercial production.
+- **Be Excellent to Each Other**: Foster a welcoming and inclusive environment where everyone feels comfortable collaborating.
 
-### 6. Thoughtful Donations Only
-
-- **Don’t dump.** Only donate what’s genuinely needed. If unsure, ask before bringing something into the space.
-
-### 7. The Hackspace is Not a Shelter
-
-- **No sleeping.** This is a workspace, not a place for overnight stays or emergency accommodation.
+By adhering to these guidelines, you'll help maintain a safe, respectful, and inspiring space for everyone. Thank you for being a part of our community!
