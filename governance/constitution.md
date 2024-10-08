@@ -556,9 +556,3 @@ At least 14 **Working Days** before the **General Meeting** at which any amendme
 When an amendment is approved by a **General Meeting** it shall be notified to the Registrar of Incorporated Societies in the form and manner specified in the **Act** for registration, and shall take effect from the date of registration.
 
 If the society is registered as a charity under the Charities Act 2005 the amendment shall also be notified to Charities Services as required by section 40 of that Act.
-
-## Other
-
-### Bylaws
-
-The **Committee** from time to time may make and amend bylaws, and policies for the conduct and control of **Society** activities and codes of conduct applicable to **Members**, but no such bylaws, policies or codes of conduct applicable to **Members** shall be inconsistent with this **Constitution**, the **Act**, regulations made under the **Act**, or any other legislation.
