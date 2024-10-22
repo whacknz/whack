@@ -1,6 +1,6 @@
 # Stewardship: Leading by Supporting
 
-In each area of the Hackspace — whether it’s the workshop, textiles room, 3D printing area, laser cutting, co-working space, or kitchen—there is a **steward**. A steward isn’t a manager or ruler but a knowledgeable guide, there to **help, support, and empower**. Their job is to ensure that the space is safe, functional, and accessible, while fostering a culture of learning and collaboration.
+In each area of the Hackspace — whether it’s the workshop, textiles room, 3D printing area, laser cutting, co-working space, or kitchen — there is a **steward**. A steward isn’t a manager or ruler but a knowledgeable guide, there to **help, support, and empower**. Their job is to ensure that the space is safe, functional, and accessible, while fostering a culture of learning and collaboration.
 
 ## The Role of a Steward
 
@@ -16,13 +16,13 @@ Once certified, you’re free to use the tool independently, but certification i
 
 ## The Advice Process: Changing the Space
 
-The Hackspace thrives on flexibility and improvement, but with that freedom comes responsibility. When making changes to a space—whether reorganizing, adding equipment, or altering a workflow—members should follow the **advice process**. This means consulting the steward and those who regularly use the space.
+The Hackspace thrives on flexibility and improvement, but with that freedom comes responsibility. When making changes to a space — whether reorganizing, adding equipment, or altering a workflow — members should follow the **advice process**. This means consulting the steward and those who regularly use the space.
 
 You don’t need formal approval, but gathering feedback ensures that the change works for everyone and avoids creating unintended problems. The advice process strengthens collaboration by valuing **collective wisdom** while empowering individual action. It's a way to balance initiative with respect for the community.
 
 ## Stewards as Enablers, Not Gatekeepers
 
-Stewards are not the ultimate authority over what happens in the space. Instead, they are **facilitators of knowledge**. Their role is to make sure you have what you need to succeed. They can connect you with resources, help troubleshoot issues, and offer guidance. They ensure the space is organized and that tools are working—but they do not block progress.
+Stewards are not the ultimate authority over what happens in the space. Instead, they are **facilitators of knowledge**. Their role is to make sure you have what you need to succeed. They can connect you with resources, help troubleshoot issues, offer guidance, and faciltate conflict resolution. They ensure the space is organized and that tools are working — but they do not block progress.
 
 Their goal is to **make things easier** for everyone, removing barriers to creativity while ensuring safety and efficiency. If you have an idea or project that could benefit the community, a steward is there to **support your vision**.
 
